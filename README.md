@@ -17,8 +17,8 @@ Here are a few examples to get you started:
 
 ### Before Installation
 #### Module R2: 
-- Your need R2 API key get from Cloudflare. Follow this document to generate key https://developers.cloudflare.com/r2/data-access/s3-api/tokens/
-- Your need Account ID get from Cloudflare. Fllow this document to get account id
+- You need an R2 API key to get from Cloudflare. Follow this document to generate key https://developers.cloudflare.com/r2/data-access/s3-api/tokens/
+- You need an Account ID get from Cloudflare. Follow this document to get the account id
 https://developers.cloudflare.com/fundamentals/get-started/basic-tasks/find-account-and-zone-ids/
 
 ### Installation
@@ -40,9 +40,9 @@ Example:
 ENV=development or production (Environment of app)
 PORT=1234 (Port of app)
 
-R2_ACCOUNT_ID=string (Account ID of Cloudflare. For more detail, see section before install module R2)
-R2_ACCESS_KEY_ID=string (Access Key ID of Cloudflare. For more detail, see section before install module R2)
-R2_SECRET_ACCESS_KEY=string (Secret access key of Cloudflare. For more detail, see section before install module R2)
+R2_ACCOUNT_ID=string (Account ID of Cloudflare. For more detail, see the section before installing module R2)
+R2_ACCESS_KEY_ID=string (Access the Key ID of Cloudflare. For more detail, see the section before installing module R2)
+R2_SECRET_ACCESS_KEY=string (Secret access key of Cloudflare. For more detail, see the section before installing module R2)
 ```
 
 #### Usage
